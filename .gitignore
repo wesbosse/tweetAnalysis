@@ -1,0 +1,14 @@
+# ignore notebook checkpoints
+*.ipynb_checkpoints
+
+# keeping the labels private
+data/tweets.csv
+data/labels.csv
+
+# ignore custom module files
+*.egg_info
+*.idea
+*.info
+
+# mac file
+.DS_store
