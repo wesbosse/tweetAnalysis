@@ -2,8 +2,8 @@
 *.ipynb_checkpoints
 
 # keeping the labels private
-data/tweets.csv
-data/labels.csv
+assets/tweets.csv
+assets/labels.csv
 
 # ignore custom module files
 *.egg_info
